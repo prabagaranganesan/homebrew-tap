@@ -7,7 +7,7 @@ cask "proxyhawk" do
   desc "HTTPS proxy debugger — pick a device and see only its traffic, decrypted locally"
   homepage "https://proxyhawk.io/"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "ProxyHawk.app"
 

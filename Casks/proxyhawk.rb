@@ -1,6 +1,6 @@
 cask "proxyhawk" do
-  version :latest
-  sha256 :no_check
+  version "1.2.0"
+  sha256 "311e461788976ef3ef587f07bd9592b0b88aedebc18ffa21a1cdf73401cde26f"
 
   url "https://proxyhawk.io/ProxyHawk.dmg"
   name "ProxyHawk"

@@ -1,6 +1,6 @@
 cask "proxyhawk" do
   version "1.2.0"
-  sha256 "58f80de0239a4e7171a8413b7ee06b62965dfd084c404d1d3e7cf24ce5d7dc8d"
+  sha256 "b3ad9b5abb0e42b9c2ed76b128e3067043b31a49cd61eccaa3636b10ff7de276"
 
   url "https://proxyhawk.io/ProxyHawk.dmg"
   name "ProxyHawk"
